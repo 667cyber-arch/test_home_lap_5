@@ -1,6 +1,10 @@
 # Home Lab – Network Intrusion Simulation
 ---
 
+> 🔒 **Security Note:** Specific IP addresses, MAC addresses, and default gateway details have been redacted or obfuscated (e.g., `192.168.1.xx`) throughout this documentation and its accompanying screenshots to protect the integrity of the local network.
+
+---
+
 ## Table of Contents
 
 * [Overview & Mission Statement](#overview--mission-statement)
