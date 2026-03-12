@@ -573,7 +573,7 @@ Execute the attack simulation:
 python3 smb_brute.py
 ```
 
-[View Python Script](Home_Lab/Red_Team/Scripts/smb_brute.py)
+[View Python Script](Home_Lab/Scripts/Red_Team/smb_brute.py)
 
 ---
 
@@ -826,7 +826,7 @@ sniff(prn=detect_attack, store=0)
 - Continuously monitors **live network traffic** passing through the bridge.
 - `store=0` prevents packets from being stored in memory during high-traffic events.
 
-[View Python Script](Home_Lab/Blue_Team/Scripts/ids_monitor.py)
+[View Python Script](Home_Lab/Scripts/Blue_Team/ids_monitor.py)
 
 ---
 
